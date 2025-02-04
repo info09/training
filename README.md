@@ -1,0 +1,2 @@
+# training
+Project training CQRS 
